@@ -4,5 +4,7 @@ Installation
  
 1. Download Software Visual Studio Code - https://code.visualstudio.com/
 2. Download Dotnet - https://dotnet.microsoft.com/download...
-3. dotnet new -i Microsoft.AspNetCore.Blazor.Templates::3.0.0-preview9.19465.2
+3. Open the project using Visual Studio Code
+4. From the IDE terminal type the following command: dotnet run
+5. Open your web broswer and navigate to http://localhost:5000
 
